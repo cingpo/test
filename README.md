@@ -79,6 +79,6 @@ paragraphafdssdeeedd11111111111111111111111111djdlajfljfljaslfjasdl;jflasjflajsl
 | zebra stripes | are neat      |    $1 |
 
 <!-- Task Lists -->
-* [x]Task 1
-* [x]Task 2
+* [x] Task 1
+* [x] Task 2
 * [ ] Task 3
